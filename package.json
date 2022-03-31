@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "learn.js",
+  "main": "javascript.js",
+  "scripts": {
+    "rerun": "nodemon javascript",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "niyas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^3.7.2",
+    "nodemon": "^2.0.15"
+  }
+}
