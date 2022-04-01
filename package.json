@@ -5,6 +5,7 @@
   "main": "javascript.js",
   "scripts": {
     "rerun": "nodemon javascript",
+    "test":"nodemon test",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "niyas",
